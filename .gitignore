@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+data/
+README.md
+index.template.html
+prova*.html
+.env
